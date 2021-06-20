@@ -1,0 +1,12 @@
+C:\Users\Alihan\source\repos\KURSPROJESON\KURSPROJESON\bin\Debug\KURSPROJESON.exe.config
+C:\Users\Alihan\source\repos\KURSPROJESON\KURSPROJESON\bin\Debug\KURSPROJESON.exe
+C:\Users\Alihan\source\repos\KURSPROJESON\KURSPROJESON\bin\Debug\KURSPROJESON.pdb
+C:\Users\Alihan\source\repos\KURSPROJESON\KURSPROJESON\obj\Debug\KURSPROJESON.csprojAssemblyReference.cache
+C:\Users\Alihan\source\repos\KURSPROJESON\KURSPROJESON\obj\Debug\KURSPROJESON.Properties.Resources.resources
+C:\Users\Alihan\source\repos\KURSPROJESON\KURSPROJESON\obj\Debug\KURSPROJESON.csproj.GenerateResource.cache
+C:\Users\Alihan\source\repos\KURSPROJESON\KURSPROJESON\obj\Debug\KURSPROJESON.csproj.CoreCompileInputs.cache
+C:\Users\Alihan\source\repos\KURSPROJESON\KURSPROJESON\obj\Debug\KURSPROJESON.exe
+C:\Users\Alihan\source\repos\KURSPROJESON\KURSPROJESON\obj\Debug\KURSPROJESON.pdb
+C:\Users\Alihan\source\repos\KURSPROJESON\KURSPROJESON\obj\Debug\KURSPROJESON.Form1.resources
+C:\Users\Alihan\source\repos\KURSPROJESON\KURSPROJESON\obj\Debug\KURSPROJESON.Form2.resources
+C:\Users\Alihan\source\repos\KURSPROJESON\KURSPROJESON\obj\Debug\KURSPROJESON.Form3.resources

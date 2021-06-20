@@ -1,0 +1,3 @@
+# YAZILIMKURSPROJE
+ID=Admın
+Sifre=123456
